@@ -1,0 +1,767 @@
+.whole
+{
+	height: 806px;
+	width:500px ;
+	display: flex;
+	margin-left: 35%;
+	flex-direction: column;
+	border-radius: 25px;
+	background: #C0C0C0;
+	border-style: solid;
+  border-width: 10px;
+  border-color: black;
+
+
+
+
+	 
+
+}
+.top
+{
+	height: 100px;
+	background: #C0C0C0;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	border-radius: 25px;
+
+
+;
+}
+.name
+{
+	padding-bottom: 15px;
+	display: flex;
+	flex-direction: column;
+	margin-left: 20px;
+
+}
+.subname
+{
+
+	margin-top: -43px;
+	margin-left: 6px;
+}
+.solar
+{
+	height: 60px;
+	width: 40%;
+	background-color: #301551;
+	border-radius: 10px;
+	margin-left: 150px;
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+
+
+}
+.solar h4
+{
+	color: whitesmoke;
+	font-size: 40px;
+	margin-top: 3px;
+}
+.subsolar h3
+{
+	margin-top: -42px;
+	font-size: 21px;
+}
+.screen input
+{
+	background: rgba(255,255,255,0.5);
+	height: 125px;
+	width: 96%;
+	background-color: #45EBA5;
+	margin-left: 5px;
+	margin-top: 9px;
+	color: blue;
+	font-size: 65px;
+	text-decoration: none;
+	
+
+
+}
+.first
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 13px;
+	
+}
+.first01 button
+{
+	height: 31px;
+	width: 62x;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: darkblue;
+	color: white;
+	margin-top: 30px;
+	
+	
+
+	
+
+}
+.first02 button
+{
+	height: 31px;
+	width: 62x;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: darkblue;
+	color: white;
+	margin-top: 30px;
+	
+
+	
+
+}
+.first03 button
+{
+	height: 88px;
+	width: 110px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 37%;
+	background-color: darkblue;
+	color: white;
+	margin-top: 5px;
+	
+
+	
+
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-bottom: 15px solid orange;
+	margin-left: 40px;
+	margin-top: -5px;
+}
+.middle
+{
+	display: flex;
+	flex-direction: row;
+	justify-content:space-between;
+	margin-top: 15px;
+	
+
+
+}
+.middle .triangle-left {
+	width: 0;
+	height: 0;
+	border-top: 10px solid transparent;
+	border-right: 10px solid orange;
+	border-bottom: 15px solid transparent;
+
+
+
+	
+}
+.middle .triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 10px solid transparent;
+	border-left: 10px solid orange;
+	border-bottom: 15px solid transparent;
+	
+	
+	
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 15px solid orange;
+	margin-left: 38px;
+	margin-top: 10px;
+}
+.first04 button
+{
+	height: 31px;
+	width: 62x;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: darkblue;
+	color: white;
+	margin-top: 30px;
+	
+
+	
+
+}
+.first05 button
+{
+	height: 31px;
+	width: 62x;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: darkblue;
+	color: white;
+	margin-top: 30px;
+	
+
+	
+
+}
+.row0
+{
+display: flex;
+	flex-direction: row;
+
+	margin: 13px;
+	margin-top: -5px;
+	
+}
+.row01 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: darkblue;
+	color: white;
+	margin-top: -25px;
+	margin-left: 3px;
+	margin-right: 12px;
+
+	
+
+	
+
+}
+
+.row02 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	margin-top: -20px;
+	margin-right: 100px;
+	
+	
+	
+
+}
+
+
+
+.row04 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	margin-top: -20px;
+	margin-right: 12px;
+	
+	
+	
+
+}
+
+.row05 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	margin-top: -20px;
+	
+	
+	
+
+}
+
+.row1
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 13px;
+	
+}
+.row11 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row12 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row13 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row14 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row15 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+.row2
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 12px;
+	
+}
+.row21 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row22 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row23 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row24 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+
+.row25 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+		background-color: darkblue;
+	color: white;
+	
+	
+
+}
+.row3
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 12px;
+
+	
+}
+.row31 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row32 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row33 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+
+}
+
+.row34 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: orange;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row35 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: orange;
+	font-size: 25px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+.row4
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 12px;
+	
+}
+.row41 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row42 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row43 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row44 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 35px;
+	text-align: center;
+		border-radius: 30px;
+
+	
+
+}
+
+.row45 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 39px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+.row5
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 12px;
+	
+}
+.row51 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row52 button
+{height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+		
+	
+
+}
+
+.row53 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row54 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row55 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+		margin-top: 0px;
+	
+
+}
+.row55 button h3
+{
+margin-top: -10px;
+}
+.row6
+{
+display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 12px;
+	
+}
+.row61 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row62 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 27px;
+	text-align: center;
+		border-radius: 30px;
+
+
+
+}
+.row62 button h2
+{
+	margin-top: -15px;
+}
+
+.row63 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 33px;
+	text-align: center;
+		border-radius: 30px;
+
+}
+
+.row64 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 35px;
+	text-align: center;
+		border-radius: 30px;
+	
+
+}
+
+.row65 button
+{
+	height: 45px;
+	width: 85px;
+	background-color: whitesmoke;
+	font-size: 37px;
+	text-align: center;
+	border-radius: 20px;
+	
+
+}
+body
+{
+	
+	background-color: black;
+	background-image: url("10.jpg");
+	
+
+	
+}
+
+
+
+
+
+
+
+
+
